@@ -56,7 +56,7 @@ npm start
 Visit the hosted app on Render: PrimePulse Shopping App.
 
 API Documentation
-Explore the detailed API documentation here to understand the available endpoints, request methods, and response formats.
+Explore the detailed API documentation https://documenter.getpostman.com/view/20301706/2s9Ykhg4Vz to understand the available endpoints, request methods, and response formats.
 
 Features
 PrimePulse offers a range of features tailored for an e-commerce shopping experience:
