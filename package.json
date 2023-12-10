@@ -9,7 +9,7 @@
     "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Asoko Idris",
+  "author": " Idris Asoko",
   "license": "ISC",
   "dependencies": {
     "@sendgrid/mail": "^7.7.0",
