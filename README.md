@@ -54,9 +54,6 @@ Ensure all dependencies are installed.
 Run the app:
 npm start
 
-Visit the hosted app on Render: PrimePulse Shopping App.
-
-
 API Documentation
 
 Explore the detailed API documentation  [ https://documenter.getpostman.com/view/20301706/2s9Ykhg4Vz ] to understand the available endpoints, request methods, and response formats.
