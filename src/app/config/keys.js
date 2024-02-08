@@ -27,22 +27,22 @@ const keys = {
       development: {
         connectionString:
           process.env.MONGO_URI_DEV ||
-          'mongodb://localhost:27017/myPitchHubDev',
+          'mongodb://localhost:27017/primePulseDev',
       },
       test: {
         connectionString:
           process.env.MONGO_URI_TEST ||
-          'mongodb://localhost:27017/myPitchHubTest',
+          'mongodb://localhost:27017/primePulseTest',
       },
       staging: {
         connectionString:
           process.env.MONGO_URI_STAGING ||
-          'mongodb://localhost:27017/myPitchHubStaging',
+          'mongodb://localhost:27017/primePulseStaging',
       },
       production: {
         connectionString:
           process.env.MONGO_URI_PROD ||
-          'mongodb://localhost:27017/myPitchHubProd',
+          'mongodb://localhost:27017/primePulseProd',
       },
     },
   },
@@ -71,7 +71,7 @@ const keys = {
   },
   superAdmin: {
     id: process.env.SUPER_ADMIN_ID || '6149e9b688fbf648c3e358ed',
-    email: process.env.SUPER_ADMIN_EMAIL || 'mypitchhub@gmail.com',
+    email: process.env.SUPER_ADMIN_EMAIL || 'primePulse@gmail.com',
     phone: process.env.SUPER_ADMIN_PHONE || '08012345678',
     password: process.env.SUPER_ADMIN_PASSWORD || 'password',
     role: process.env.SUPER_ADMIN_ROLE || 'SuperAdmin',
